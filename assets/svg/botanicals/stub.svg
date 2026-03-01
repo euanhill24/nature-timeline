@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 500" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Generic botanical placeholder — simple branch with leaves -->
+
+  <!-- Main stem -->
+  <path d="M150 490 C150 460 151 430 153 400 C155 370 155 340 150 310 C146 280 140 254 138 226 C136 198 138 170 142 148"/>
+
+  <!-- Branch left -->
+  <path d="M146 260 C136 244 122 232 110 218"/>
+  <!-- Branch right -->
+  <path d="M150 300 C162 285 174 272 184 258"/>
+  <!-- Branch upper left -->
+  <path d="M144 200 C134 186 122 176 112 162"/>
+  <!-- Branch upper right -->
+  <path d="M148 230 C160 217 172 206 182 194"/>
+
+  <!-- Leaf on main stem top -->
+  <path d="M142 148 C138 130 130 118 126 104 C122 90 126 78 134 80 C142 82 148 96 150 112 C152 128 148 146 142 148Z"/>
+  <line x1="142" y1="148" x2="134" y2="80"/>
+
+  <!-- Leaf branch left -->
+  <path d="M110 218 C100 204 92 190 94 176 C96 162 104 158 110 164 C116 170 116 186 114 200 C112 214 110 220 110 218Z"/>
+  <line x1="110" y1="218" x2="102" y2="170"/>
+
+  <!-- Leaf branch right -->
+  <path d="M184 258 C196 246 206 232 204 218 C202 204 194 200 188 206 C182 212 182 228 184 242 C186 256 186 260 184 258Z"/>
+  <line x1="184" y1="258" x2="196" y2="210"/>
+
+  <!-- Leaf upper left -->
+  <path d="M112 162 C100 150 92 134 94 120 C96 106 104 102 110 108 C116 114 116 130 114 144 C112 158 112 164 112 162Z"/>
+  <line x1="112" y1="162" x2="102" y2="112"/>
+
+  <!-- Leaf upper right -->
+  <path d="M182 194 C194 182 204 168 202 154 C200 140 192 136 186 142 C180 148 180 164 182 178 C184 192 184 196 182 194Z"/>
+  <line x1="182" y1="194" x2="194" y2="146"/>
+
+  <!-- Small berries at branch tips -->
+  <circle cx="142" cy="144" r="4"/>
+  <circle cx="108" cy="214" r="4"/>
+  <circle cx="182" cy="254" r="4"/>
+  <circle cx="110" cy="158" r="3"/>
+  <circle cx="180" cy="190" r="3"/>
+</svg>

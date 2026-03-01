@@ -1,0 +1,1434 @@
+{
+  "months": [
+    {
+      "id": "january",
+      "number": 1,
+      "name": "January",
+      "tagline": "The quiet heart of winter",
+      "summary": "January wraps the land in stillness. The trees stand bare against pewter skies, yet beneath the frozen soil, the first stirrings of spring are already underway. Snowdrops pierce the cold earth, fieldfares chatter in frosted hedgerows, and the longest nights slowly begin to surrender their grip. This is a month for watching, waiting, and finding beauty in the spare and the silent.",
+      "heroPlant": "snowdrop",
+      "season": "winter",
+      "natureEvents": [
+        {
+          "title": "Snowdrops emerge",
+          "description": "The first snowdrops push through frozen ground in sheltered woodland and churchyards, often from mid-January. Their appearance marks one of the earliest signs that the year has truly turned."
+        },
+        {
+          "title": "Winter aconites carpet woodland floors",
+          "description": "Bright yellow winter aconites bloom in ancient woodland, often appearing alongside snowdrops. Look for them in undisturbed churchyards and old estate gardens."
+        },
+        {
+          "title": "Blackbirds begin territorial singing",
+          "description": "Male blackbirds start their rich, fluting song from late January, one of the first birds to signal the approaching breeding season even in the depths of winter."
+        }
+      ],
+      "wildlife": [
+        {
+          "species": "Fieldfare",
+          "type": "bird",
+          "note": "Large thrushes from Scandinavia winter across British farmland and hedgerows. Look for their grey heads and chestnut backs as they work through berry-laden hedges in noisy flocks."
+        },
+        {
+          "species": "Redwing",
+          "type": "bird",
+          "note": "The UK's smallest true thrush, identifiable by the vivid red-orange flash under each wing. Often seen alongside fieldfares stripping holly and hawthorn berries."
+        },
+        {
+          "species": "Otter",
+          "type": "mammal",
+          "note": "January is one of the best months to spot otters — breeding season brings them into the open on rivers and streams. Look for spraints (droppings) on prominent rocks as signs of territory."
+        },
+        {
+          "species": "Short-eared owl",
+          "type": "bird",
+          "note": "Diurnal hunters active in daylight, quartering rough grassland and coastal marshes. Winter visitors boost resident populations, making January a prime month for sightings."
+        }
+      ],
+      "sky": {
+        "avgSunrise": "08:06",
+        "avgSunset": "16:02",
+        "highlights": [
+          "Quadrantid meteor shower peaks January 3–4, with up to 100 meteors per hour at peak",
+          "Venus blazes in the evening sky as the 'Evening Star' throughout January",
+          "Orion dominates the southern sky — Betelgeuse and Rigel are unmistakable",
+          "Daylight lengthens by approximately 40 minutes over the course of the month"
+        ]
+      },
+      "seasonalVeg": [
+        "Kale",
+        "Brussels sprouts",
+        "Parsnips",
+        "Leeks",
+        "Celeriac",
+        "Swede",
+        "Savoy cabbage",
+        "Jerusalem artichokes"
+      ],
+      "foraging": [
+        {
+          "name": "Hawthorn berries (haws)",
+          "note": "Still clinging to hedgerows early in the month. Rich in antioxidants — make haw ketchup, jelly, or a warming berry liqueur."
+        },
+        {
+          "name": "Velvet shank mushrooms",
+          "note": "Bright orange-brown caps on dead elm and other hardwoods. One of the few fungi fruiting in winter, identifiable by their dark velvety stems."
+        },
+        {
+          "name": "Hazel catkins",
+          "note": "Male catkins lengthen and yellow in late January, releasing pollen. Not for eating, but a beautiful sign of the year turning."
+        }
+      ],
+      "plantsInBloom": [
+        "Snowdrop",
+        "Winter aconite",
+        "Hellebore",
+        "Witch hazel",
+        "Winter jasmine",
+        "Gorse (sparse)"
+      ],
+      "thingsToDo": [
+        {
+          "activity": "RSPB Big Garden Birdwatch",
+          "when": "Last full weekend of January",
+          "description": "Spend one hour counting every bird that visits your garden or local green space. The UK's largest citizen science survey — results shape conservation policy."
+        },
+        {
+          "activity": "Snowdrop walks",
+          "when": "Mid to late January",
+          "description": "Seek out 'galanthophile' gardens and ancient woodland for spectacular snowdrop displays. Painswick Rococo Garden in Gloucestershire and Anglesey Abbey in Cambridgeshire are renowned."
+        },
+        {
+          "activity": "Winter estuary birding",
+          "when": "All month, especially high tide",
+          "description": "Estuaries hold extraordinary concentrations of wading birds and wildfowl in winter. Try the Exe Estuary, the Humber, or the Wash for knot, dunlin, and godwit spectacles."
+        }
+      ]
+    },
+    {
+      "id": "february",
+      "number": 2,
+      "name": "February",
+      "tagline": "The year stirs in the dark",
+      "summary": "February is a month of contradictions and quiet urgency. Beneath frozen soil, crocuses are already pressing upward; on warm afternoons, the first bumblebee queens venture from their winter sleep, drawn by the weak February sun. Great tits begin their two-note spring song from garden trees — the most optimistic sound in the coldest month — and hazel catkins dust everything gold. The year has decided to live.",
+      "heroPlant": "crocus",
+      "season": "winter",
+      "natureEvents": [
+        {
+          "title": "Hazel catkins release pollen",
+          "description": "Male catkins lengthen into pendulous golden strings and release clouds of pollen on mild days, dusting clothes and cars pale yellow. Look for the tiny red female flowers — no larger than a pinhead — on the same branches. If pollinated, they will become hazelnuts by autumn."
+        },
+        {
+          "title": "Common frogs return to ponds",
+          "description": "The first mild wet nights of late February bring common frogs surging back to their ancestral breeding ponds. The arrival is sudden and dramatic — still water that was empty at dusk becomes a seething mass of frogs by dawn, and the first clumps of spawn appear within hours."
+        },
+        {
+          "title": "First bumblebee queens emerge",
+          "description": "Buff-tailed bumblebee queens — Britain's largest bumblebee — emerge from hibernation on the first warm February days to forage on winter-flowering hellebores, snowdrops, and early crocus. Each queen is founding a new colony entirely alone."
+        }
+      ],
+      "wildlife": [
+        {
+          "species": "Great tit",
+          "type": "bird",
+          "note": "The two-note 'teechah-teechah' call rings from bare garden trees from mid-February — one of the earliest and most instantly recognisable signals of the approaching breeding season. Males establish territories weeks before most migrants arrive."
+        },
+        {
+          "species": "Common frog",
+          "type": "amphibian",
+          "note": "Britain's most familiar amphibian returns to breeding ponds in late February in mild years. The males chorus in a sustained low purring croak; a single female may be attended by a dozen males, creating characteristic spawning balls."
+        },
+        {
+          "species": "Buff-tailed bumblebee",
+          "type": "insect",
+          "note": "The queen is enormous by bumblebee standards — a furry, yellow-and-black tank of an insect. Finding one foraging on a cold February afternoon, the only large flying insect in a still-dormant landscape, is one of the year's most cheering encounters."
+        },
+        {
+          "species": "Roe deer",
+          "type": "mammal",
+          "note": "Roe deer are easy to spot in February before the understory leafs out. The males begin growing new antlers — visible as velvet-covered spikes. Look at field edges and woodland margins in the long, low-angled February light."
+        }
+      ],
+      "sky": {
+        "avgSunrise": "07:18",
+        "avgSunset": "17:12",
+        "highlights": [
+          "Days lengthen rapidly — gaining nearly two minutes of daylight every day through February",
+          "The winter constellation Orion begins to slip toward the western horizon as evenings pass",
+          "Venus blazes as the evening star in the west after sunset",
+          "The zodiacal light — a faint pyramid of light — is visible in the west after dusk on clear, moonless evenings"
+        ]
+      },
+      "seasonalVeg": [
+        "Kale",
+        "Purple sprouting broccoli",
+        "Leeks",
+        "Celeriac",
+        "Chicory",
+        "Forced rhubarb",
+        "Cauliflower",
+        "Swede"
+      ],
+      "foraging": [
+        {
+          "name": "Hairy bittercress",
+          "note": "A peppery, fast-growing weed with tiny white flowers — available year-round but best in spring. Adds a cress-like bite to salads and sandwiches. Grows in garden borders, pots, and disturbed ground."
+        },
+        {
+          "name": "Chickweed",
+          "note": "Mild and tender, chickweed is at its best in early spring. The single line of hairs along the stem is the key identification feature. Use in salads, green smoothies, or wilted as a spinach substitute."
+        },
+        {
+          "name": "Alexanders",
+          "note": "A coastal and wayside plant — all parts edible in early spring when it's most tender. Stems taste of celery with a hint of myrrh. Found in clifftop hedgerows and roadside verges near the coast in the south."
+        }
+      ],
+      "plantsInBloom": [
+        "Crocus",
+        "Snowdrop (late)",
+        "Daphne",
+        "Early daffodil",
+        "Pulmonaria (lungwort)",
+        "Aconite",
+        "Hellebore"
+      ],
+      "thingsToDo": [
+        {
+          "activity": "Pond-watch for frog spawn",
+          "when": "Late February onwards",
+          "description": "Visit local wildlife trust reserves or garden ponds after a mild, wet night. The transformation from empty pond to full spawn can happen overnight. Join a Wildlife Trust bioblitz or simply watch your own garden pond."
+        },
+        {
+          "activity": "Snowdrop garden walks",
+          "when": "All February",
+          "description": "Many historic gardens open specifically for their snowdrop collections in February. Painswick Rococo Garden, Anglesey Abbey, and Colesbourne Park in Gloucestershire offer spectacular displays of hundreds of named varieties."
+        },
+        {
+          "activity": "Watch for early bumblebees",
+          "when": "Warm days above 10°C",
+          "description": "Plant hellebores, winter aconites, and early crocus in a sheltered, sunny corner of the garden and watch for the year's first bumblebee queens. Recording your first sighting on iRecord contributes to citizen science."
+        }
+      ]
+    },
+    {
+      "id": "march",
+      "number": 3,
+      "name": "March",
+      "tagline": "The world wakes, all at once",
+      "summary": "March feels like a held breath finally released. The equinox arrives, birds sing from before dawn, and the countryside undergoes a visible transformation — brown hedgerows show the first green haze of emerging leaves, and blackthorn turns white almost overnight. The first chiffchaffs call from willow and elder; adders bask on south-facing heathland slopes; brimstone butterflies — sulphur yellow — bounce along woodland rides. The light has changed everything.",
+      "heroPlant": "daffodil",
+      "season": "spring",
+      "natureEvents": [
+        {
+          "title": "Blackthorn blossom",
+          "description": "Blackthorn is the month's defining flower — its white blossom opens on bare, dark branches before any leaves appear, frosting every hedgerow and scrubby slope. 'Blackthorn winter' refers to the cold snaps that often accompany its flowering in late March. The blossom will become sloe berries by autumn."
+        },
+        {
+          "title": "Vernal equinox (~20 March)",
+          "description": "Day and night are of equal length at the equinox. From this moment the light wins — each day longer than the last until midsummer. Many ancient sites across Britain, including Avebury, are aligned to the equinox sunrise."
+        },
+        {
+          "title": "Adder emergence",
+          "description": "Britain's only venomous snake emerges from winter torpor to bask on south-facing heathland slopes and bracken hillsides. Males appear first — silvery-grey with a dark diamond pattern — weeks before the browner females. They are shy and rarely seen unless you move slowly and quietly."
+        },
+        {
+          "title": "Chiffchaff arrives",
+          "description": "The chiffchaff is traditionally the first summer migrant to sing, with individuals arriving from the Mediterranean from mid-March. Its call — a simple, emphatic 'chiff-chaff' repeated endlessly from willow scrub — is the sound that announces spring has truly arrived."
+        }
+      ],
+      "wildlife": [
+        {
+          "species": "Chiffchaff",
+          "type": "bird",
+          "note": "Despite its simple two-note song, the chiffchaff's return from wintering grounds in the Mediterranean is one of spring's most celebrated moments. Some now overwinter in the south of England, but the first singers in March are unmistakably heralding the new season."
+        },
+        {
+          "species": "Adder",
+          "type": "reptile",
+          "note": "Britain's only venomous snake is one of its most beautiful — the males' silvery-grey scales and dark zigzag dorsal stripe are vivid in spring sunshine. They emerge weeks before females to warm up and shed skin. Heathland, moorland, and bracken-covered hillsides are the best places to look."
+        },
+        {
+          "species": "Brimstone butterfly",
+          "type": "insect",
+          "note": "The butter-yellow brimstone is thought to have given the butterfly family its English name. Males emerge first with vivid lemon-yellow wings; both sexes feed on buckthorn in woodland edges and scrubby hedgerows. Their flight in early spring sunshine is one of the season's great pleasures."
+        },
+        {
+          "species": "Sand martin",
+          "type": "bird",
+          "note": "The first hirundine (swallow family) to arrive each spring — sand martins appear over reservoirs and gravel pits from mid-March, hawking low for insects over the water. Their return is eagerly anticipated as the first confirmation that Africa is sending us its birds."
+        }
+      ],
+      "sky": {
+        "avgSunrise": "06:28",
+        "avgSunset": "18:28",
+        "highlights": [
+          "Clocks go forward last Sunday in March (BST begins) — an hour of evening light gained overnight",
+          "The Vernal Equinox falls around 20 March — equal day and night, then light accelerates",
+          "The winter hexagon of bright stars (Sirius, Rigel, Aldebaran, Capella, Pollux, Procyon) sets in the west",
+          "Noctilucent cloud season will begin in earnest from May — late March is the last clear dark sky for months"
+        ]
+      },
+      "seasonalVeg": [
+        "Purple sprouting broccoli",
+        "Spring greens",
+        "Leeks",
+        "Forced rhubarb",
+        "Cauliflower",
+        "Wild garlic (early)",
+        "Chicory",
+        "Sorrel"
+      ],
+      "foraging": [
+        {
+          "name": "Wild garlic (ramsons)",
+          "note": "The first leaves of wild garlic appear from early March in damp ancient woodland, spreading fast into vast fragrant carpets. Leaves are best before flowering — use in pesto, soups, and butter. The distinctive garlicky scent is the surest identification."
+        },
+        {
+          "name": "Three-cornered leek",
+          "note": "An introduced plant now common on roadsides and disturbed ground in the south and west. White bell-flowers and a triangular stem smelling strongly of onion. All parts edible — use like spring onion or chive."
+        },
+        {
+          "name": "Chickweed",
+          "note": "Year-round but at its most tender in early spring. The mild flavour works well in salads and sandwiches. Identify by the single line of hairs along the stem — and by the fact that it needs no cooking."
+        }
+      ],
+      "plantsInBloom": [
+        "Blackthorn",
+        "Daffodil",
+        "Wood anemone",
+        "Lesser celandine",
+        "Pussy willow",
+        "Wild garlic (early leaves)",
+        "Lungwort",
+        "Forsythia"
+      ],
+      "thingsToDo": [
+        {
+          "activity": "Early dawn chorus walks",
+          "when": "Late March, from 5am",
+          "description": "Resident birds are in full song from late March before the main wave of migrants arrives. First light on a still March morning — blackbird, wren, robin, great tit, song thrush — is extraordinary. Local Wildlife Trusts run guided walks."
+        },
+        {
+          "activity": "Badger watching evenings",
+          "when": "Dusk throughout March",
+          "description": "With evenings extending rapidly, March is a good month to visit active badger setts at dusk. Cubs won't be visible until April but adults are increasingly active and easy to watch as the light holds later."
+        },
+        {
+          "activity": "Spot adders on sunny days",
+          "when": "Still, sunny days above 10°C",
+          "description": "Head to RSPB Arne in Dorset, Ainsdale in Lancashire, or any lowland heathland on a still sunny March morning. Move slowly, stay on paths, and watch the sunny edges of bracken and gorse. Adders always move away given the chance."
+        }
+      ]
+    },
+    {
+      "id": "april",
+      "number": 4,
+      "name": "April",
+      "tagline": "The bluebells are coming",
+      "summary": "April is Britain's most exuberant month. Ancient oak woodland floods with the blue haze of wild hyacinths, swallows appear over ponds and farms, and the air is thick with birdsong. The dawn chorus reaches its peak as newly arrived migrants add their voices — blackcap, whitethroat, willow warbler. Cow parsley fizzes white along country lanes, and the first orange-tip butterflies dance along hedgerows.",
+      "heroPlant": "bluebell",
+      "season": "spring",
+      "natureEvents": [
+        {
+          "title": "Bluebell season peaks",
+          "description": "Ancient semi-natural woodland carpets blue as native bluebells (Hyacinthoides non-scripta) reach peak bloom, typically mid to late April. Britain holds roughly half the world's population of native bluebells. The scent — a subtle, sweet hyacinth — hangs in the still morning air."
+        },
+        {
+          "title": "Swallow arrival",
+          "description": "The first swallows arrive from their wintering grounds in southern Africa, traditionally around St George's Day (23 April). Their return is one of the most celebrated moments in the British natural calendar — fork-tailed aerial acrobats hawking low over water."
+        },
+        {
+          "title": "Dawn chorus peaks",
+          "description": "The first two weeks of May see the dawn chorus at its absolute peak as all resident birds are joined by newly arrived summer migrants — blackcap, garden warbler, whitethroat. Join an organised dawn walk or simply be outside at 4:30am."
+        },
+        {
+          "title": "Orange-tip butterfly emerges",
+          "description": "Male orange-tip butterflies with their vivid tangerine wingtips are unmistakable heralds of spring, appearing from late April along hedgerows and woodland rides where lady's smock grows — the foodplant of their caterpillars."
+        }
+      ],
+      "wildlife": [
+        {
+          "species": "Swallow",
+          "type": "bird",
+          "note": "Hirundo rustica — arriving from sub-Saharan Africa after a journey of 6,000 miles. Nests colonially in old farm buildings and barns. Their chattering song and aerial mastery make them among the most beloved of British summer visitors."
+        },
+        {
+          "species": "Blackcap",
+          "type": "bird",
+          "note": "The 'northern nightingale' — a warbler with an extraordinarily rich, fluty song. Males have a neat black cap; females chestnut-brown. Arriving from southern Europe and Africa, they fill woodland edges from mid-April."
+        },
+        {
+          "species": "Orange-tip butterfly",
+          "type": "insect",
+          "note": "One of spring's most distinctive butterflies. Males have brilliant orange wing-tips; females are white with green marbling. Flies along hedgerows, woodland rides, and riverbanks where their larval foodplant lady's smock grows."
+        },
+        {
+          "species": "Badger",
+          "type": "mammal",
+          "note": "April is prime badger-watching time as cubs emerge from setts for the first time. Watch at dusk from downwind of an active sett — cubs play boisterously outside while adults forage for earthworms in damp grass."
+        },
+        {
+          "species": "Slow worm",
+          "type": "reptile",
+          "note": "Not a worm or a snake but a legless lizard — one of Britain's most misunderstood reptiles. Basks under corrugated tin sheets and in sunny spots in gardens and heathland from April onwards."
+        }
+      ],
+      "sky": {
+        "avgSunrise": "06:05",
+        "avgSunset": "20:15",
+        "highlights": [
+          "Lyrid meteor shower active 16–25 April, peaking around April 22 with 15–20 meteors per hour",
+          "Mars and Saturn visible in the morning sky before dawn",
+          "Noctilucent cloud season begins for high-latitude observers — rare electric-blue clouds at the edge of space",
+          "Days now noticeably long — over 14 hours of daylight by month's end"
+        ]
+      },
+      "seasonalVeg": [
+        "Jersey Royal potatoes (early)",
+        "Asparagus (early season)",
+        "Spring onions",
+        "Radishes",
+        "Lettuce and salad leaves",
+        "Spinach",
+        "Watercress"
+      ],
+      "foraging": [
+        {
+          "name": "Wild garlic (ramsons)",
+          "note": "Peak season for wild garlic — carpets of broad, intensely garlicky leaves in damp ancient woodland. Use in pesto, soups, scrambled eggs. The white star-flowers are also edible. Harvest before the flowers open for strongest flavour."
+        },
+        {
+          "name": "Hawthorn leaves (bread and cheese)",
+          "note": "Young hawthorn leaves and flower buds — known traditionally as 'bread and cheese' — are tender and mildly nutty in April before they toughen. Eat fresh in salads or sandwiches."
+        },
+        {
+          "name": "Nettles",
+          "note": "Young nettle tops (top 2–3 pairs of leaves) are at their most tender and nutritious before they flower. Blanching removes the sting. Use exactly as you'd use spinach — nettle soup, nettle pasta, nettle pesto."
+        },
+        {
+          "name": "Wood sorrel",
+          "note": "Delicate heart-shaped leaves with a vivid, lemony tang — almost like citrus. Found in woodland and shaded hedgebanks. Entirely edible, flowers and all. Excellent in salads or as a garnish."
+        }
+      ],
+      "plantsInBloom": [
+        "Bluebell",
+        "Cow parsley",
+        "Wild garlic",
+        "Lady's smock (cuckooflower)",
+        "Stitchwort",
+        "Wood anemone",
+        "Hawthorn (late month)",
+        "Crab apple",
+        "Cherry blossom"
+      ],
+      "thingsToDo": [
+        {
+          "activity": "Bluebell woodland walks",
+          "when": "Mid to late April",
+          "description": "Visit ancient semi-natural woodland at its most spectacular. Micheldever Wood (Hampshire), Dockey Wood (Hertfordshire), and Hardcastle Crags (Yorkshire) are among the finest bluebell woods in Britain. Go on a still morning for the scent."
+        },
+        {
+          "activity": "Dawn chorus",
+          "when": "All April, especially weekends around May Day",
+          "description": "The International Dawn Chorus Day falls in early May, but April's dawn chorus — especially in the final two weeks — is extraordinary. Set an alarm for 4:30am and listen from your garden or local woodland edge."
+        },
+        {
+          "activity": "Badger watching",
+          "when": "Dusk throughout April",
+          "description": "April evenings are ideal for watching badgers as cubs explore outside the sett for the first time. Many Wildlife Trust reserves offer guided badger watches. Stay downwind, move quietly, and be patient."
+        },
+        {
+          "activity": "Butterfly transect walks",
+          "when": "Warm, sunny April days",
+          "description": "Count butterflies along a fixed route on sunny days above 13°C — contributing data to the UK Butterfly Monitoring Scheme. Orange-tip, brimstone, and peacock are the stars of April."
+        }
+      ]
+    },
+    {
+      "id": "may",
+      "number": 5,
+      "name": "May",
+      "tagline": "All the birds at once",
+      "summary": "May is the month of maximum abundance — a tipping point when everything has arrived and nothing has yet departed. The countryside is overwhelmingly alive: every hedgerow heavy with May blossom, every woodland ringing with song. Cuckoos call from distant trees; swifts arrive with their screaming parties over rooftops; mayflies hatch in their millions over chalk streams. There is so much life competing for attention that it feels almost excessive.",
+      "heroPlant": "hawthorn",
+      "season": "spring",
+      "natureEvents": [
+        {
+          "title": "Hawthorn blossom peaks",
+          "description": "May blossom — the sweet, heavy scent of hawthorn flowers — saturates the air along every hedgerow and country lane. The creamy-white flowers appear after the leaves (unlike blackthorn) and their scent, strongest in warm, humid weather, is inseparable from the British countryside in late spring."
+        },
+        {
+          "title": "Swifts arrive from Africa",
+          "description": "Swifts return from sub-Saharan Africa in the first week of May — always later than swallows and martins, always noisier on arrival. Their screaming parties over rooftops and church towers are one of the great sounds of the British summer. They will be gone again by August."
+        },
+        {
+          "title": "Cuckoo calls from woodland edge",
+          "description": "The cuckoo's two-note call drifts across farmland, scrub, and woodland from early May. Males call persistently and carry far on still air. Numbers have declined steeply — hearing a cuckoo is now a notable event in many parts of England."
+        },
+        {
+          "title": "Mayfly hatch on chalk streams",
+          "description": "On warm May evenings, rivers like the Test, Itchen, and Kennet erupt with adult mayflies — thousands emerging from the water simultaneously. The adult mayfly lives for only a day or two; trout rise furiously in response. One of the most spectacular natural events in England."
+        }
+      ],
+      "wildlife": [
+        {
+          "species": "Swift",
+          "type": "bird",
+          "note": "Apus apus — the supreme flying machine. Swifts sleep, feed, drink, and even mate on the wing, landing only to nest. Their scimitar wings and near-fork-less tail distinguish them from swallows. Find nesting colonies under roof tiles of old houses and churches."
+        },
+        {
+          "species": "Cuckoo",
+          "type": "bird",
+          "note": "A declining guest from Africa. The cuckoo lays each egg in the nest of a different host bird — typically meadow pipit, reed warbler, or dunnock — and departs south before its chick has fledged. The male's call is one of the most distinctive in the British countryside."
+        },
+        {
+          "species": "Mayfly",
+          "type": "insect",
+          "note": "Ephemera danica — the iconic chalk-stream mayfly, with three long tail filaments and upswept wings. The adult lives only 24–72 hours — just long enough to mate and lay eggs. The underwater nymph stage lasts two to three years. The mass hatch is called 'the Mayfly season' by fly fishers."
+        },
+        {
+          "species": "Common blue butterfly",
+          "type": "insect",
+          "note": "The male's vivid azure-blue wings and the female's soft brown make this one of Britain's most beloved butterflies. Found wherever its foodplant bird's-foot trefoil grows — meadows, road verges, coastal grassland. Two or three broods between May and September."
+        },
+        {
+          "species": "Spotted flycatcher",
+          "type": "bird",
+          "note": "One of the last summer migrants to arrive, the spotted flycatcher launches from a prominent perch, catches an insect in mid-air, and returns to exactly the same spot. Look for it in old orchards, churchyards, and woodland edges from mid-May."
+        }
+      ],
+      "sky": {
+        "avgSunrise": "05:06",
+        "avgSunset": "21:07",
+        "highlights": [
+          "Eta Aquarid meteor shower peaks around 5–6 May — debris from Halley's Comet, up to 50 meteors per hour",
+          "Days now exceed 16 hours of daylight — the longest since last summer",
+          "The Milky Way becomes visible again in the south on clear dark nights",
+          "Noctilucent clouds may appear in the north after midnight — electric-blue wisps at the edge of space"
+        ]
+      },
+      "seasonalVeg": [
+        "Asparagus (peak)",
+        "Jersey Royals",
+        "Radishes",
+        "Spring onions",
+        "Broad beans (early)",
+        "Lettuce",
+        "Peas (early)",
+        "Watercress"
+      ],
+      "foraging": [
+        {
+          "name": "Elderflower",
+          "note": "Elder trees explode into creamy flower heads from late May. Harvest within hours of full opening for the most fragrant cordial, sparkling elderflower wine, or elderflower fritters dipped in batter. The scent is extraordinary — the essence of English early summer."
+        },
+        {
+          "name": "Hawthorn blossom",
+          "note": "The flower clusters are mildly nutty and entirely edible. Scatter in salads, fold into scones, or infuse in brandy for a subtly flavoured liqueur. Harvest before the scent fades."
+        },
+        {
+          "name": "Sorrel",
+          "note": "Common sorrel grows in meadows and rough grassland — large arrow-shaped leaves with an intense, lemony sourness. Perfect in salads, sauces for fish, and soups. The flavour is caused by oxalic acid; eat in moderation."
+        },
+        {
+          "name": "Ground elder",
+          "note": "The bane of gardeners is one of spring's most useful greens — tender young leaves have a flavour between angelica and parsley. Blanch and use exactly as spinach. Harvest from clean, unsprayed ground."
+        }
+      ],
+      "plantsInBloom": [
+        "Hawthorn (May blossom)",
+        "Elderflower (late May)",
+        "Ox-eye daisy",
+        "Red campion",
+        "Ragged robin",
+        "Bluebells (fading)",
+        "Cow parsley (peak)",
+        "Yellow iris (waterways)"
+      ],
+      "thingsToDo": [
+        {
+          "activity": "International Dawn Chorus Day",
+          "when": "First Sunday in May",
+          "description": "Organised walks run across the UK — join one through your local Wildlife Trust, or simply step outside at 4:30am. The chorus in early May, with all residents joined by newly arrived migrants, is the finest of the year."
+        },
+        {
+          "activity": "Swift watch at church towers",
+          "when": "From the first warm evenings of May",
+          "description": "Find an old church or building with swift nesting boxes and watch the screaming parties at dusk. The RSPB Swift Mapper documents known breeding sites. Stand at a distance and let the birds come to you."
+        },
+        {
+          "activity": "Chalk stream mayfly",
+          "when": "Warm May evenings",
+          "description": "Visit the River Test near Stockbridge, the Itchen at Winchester, or the Kennet near Hungerford at dusk. Watch for the hatch from a bridge — trout rising, mayflies dancing, swallows and swifts hawking overhead simultaneously."
+        },
+        {
+          "activity": "Bluebells — last chance",
+          "when": "Early May",
+          "description": "Early May is the final days of bluebell season in most of England. A week of warm weather can end the season suddenly. Go quickly — and go in the morning for the scent at its strongest."
+        }
+      ]
+    },
+    {
+      "id": "june",
+      "number": 6,
+      "name": "June",
+      "tagline": "The longest light of the year",
+      "summary": "June is the month of maximum light — the solstice falls around the 21st, and for days before and after, darkness barely arrives before midnight in the north. Wildflower meadows are at their absolute peak, strewn with ox-eye daisies, yellow rattle, and purple knapweed. At night, glow-worms illuminate chalk downland with cold green light; nightjars churn from heathland; stag beetles clatter through the warm air at dusk. Britain at its most abundant.",
+      "heroPlant": "foxglove",
+      "season": "summer",
+      "natureEvents": [
+        {
+          "title": "Summer solstice (~21 June)",
+          "description": "The longest day — in Scotland, civil twilight barely ends between sunset and sunrise. Many ancient sites mark the solstice sunrise, and Stonehenge draws tens of thousands of visitors. The day after the solstice, the light begins imperceptibly to retreat."
+        },
+        {
+          "title": "Wildflower meadow season peaks",
+          "description": "Traditional hay meadows, now among Britain's most threatened habitats, are at their finest in June. The best surviving examples — North Meadow at Cricklade, Yockletts Bank in Kent — are a revelation: dozens of wildflower species in a single acre, a humming density of insects."
+        },
+        {
+          "title": "Stag beetle emergence",
+          "description": "Britain's largest beetle emerges from the soil in warm southern England, particularly around ancient oak woodland. Males fly at dusk from June, their antler-like mandibles used in battles with rival males. The larvae can spend up to seven years underground in decaying oak stumps."
+        },
+        {
+          "title": "Glow-worm season begins",
+          "description": "Female glow-worms appear on chalk downland and rough grassland on warm June nights, emitting steady cold-green light from their abdomens to attract flying males. Look at the base of vegetation in the dark — the light is surprisingly bright and distinctly green."
+        }
+      ],
+      "wildlife": [
+        {
+          "species": "Nightjar",
+          "type": "bird",
+          "note": "The nightjar is one of Britain's most atmospheric birds. Heard rather than seen, the male's mechanical churring is delivered from a prominent perch on heathland from dusk. The bird itself is nocturnal and superbly camouflaged against bark and leaf litter. Peak activity on warm June evenings."
+        },
+        {
+          "species": "Stag beetle",
+          "type": "insect",
+          "note": "Lucanus cervus — the UK's largest terrestrial beetle. Males are distinguished by their enormous reddish-brown mandibles, resembling a stag's antlers. Populations are concentrated in southern England, especially Surrey, the Thames Valley, and the New Forest."
+        },
+        {
+          "species": "Bee orchid",
+          "type": "plant",
+          "note": "One of Britain's most extraordinary wildflowers — each flower mimics a female bee so precisely that it fools the eye. Found on chalk and limestone grassland and disturbed ground, including road verges and railway embankments in the south and east."
+        },
+        {
+          "species": "Common lizard",
+          "type": "reptile",
+          "note": "Britain's most widespread reptile basks on south-facing banks, log piles, and dry stone walls from June, often in small groups. Unlike the slow worm, the common lizard has a distinctly lizard shape and will shed its tail if grabbed."
+        },
+        {
+          "species": "Glow-worm",
+          "type": "insect",
+          "note": "The glow-worm is actually a beetle (Lampyris noctiluca), not a worm. The wingless female produces a steady bioluminescent light to attract the flying male. The light is cold — barely any heat — and visible from several metres. Numbers have declined steeply with light pollution."
+        }
+      ],
+      "sky": {
+        "avgSunrise": "04:43",
+        "avgSunset": "21:22",
+        "highlights": [
+          "Summer solstice around 21 June — the longest day of the year",
+          "Noctilucent clouds visible from northern Britain on clear nights after midnight — eerie blue-silver wisps from ice crystals at 80km altitude",
+          "The nights are short but Jupiter and Saturn are well placed for southern-sky viewing from midnight",
+          "Midsummer is an excellent time to locate M13 — the great globular cluster in Hercules — with binoculars"
+        ]
+      },
+      "seasonalVeg": [
+        "Courgettes",
+        "Broad beans (peak)",
+        "Peas",
+        "Strawberries",
+        "Gooseberries",
+        "Lettuce",
+        "Rocket",
+        "New potatoes",
+        "Radishes"
+      ],
+      "foraging": [
+        {
+          "name": "Elderflower (peak)",
+          "note": "The first week of June is prime elderflower time in most of England. The flowers are most fragrant in the morning — pick on a dry, sunny day and use within hours. The classic recipe is elderflower cordial, but elderflower fritters are extraordinary."
+        },
+        {
+          "name": "Wild strawberry",
+          "note": "Tiny, intensely sweet wild strawberries ripen on south-facing banks and woodland edges from mid-June. The flavour is far more concentrated than any cultivated variety. Patience and good knees required."
+        },
+        {
+          "name": "Hogweed shoots",
+          "note": "Young hogweed shoots (not giant hogweed — a very different and dangerous plant) can be steamed and eaten like asparagus. The flavour is distinctive — slightly like parsnip and celery. Harvest only young shoots from known, unsprayed sites."
+        },
+        {
+          "name": "Meadowsweet flowers",
+          "note": "Frothy, creamy-white plumes of meadowsweet appear from late June along riverbanks. The flowers — intensely fragrant with a honey-almond scent — can be used to flavour jams, wines, and syrups. Meadowsweet is the original source of aspirin."
+        }
+      ],
+      "plantsInBloom": [
+        "Foxglove",
+        "Meadowsweet (late June)",
+        "Ox-eye daisy",
+        "Yellow rattle",
+        "Cornflower",
+        "Viper's bugloss",
+        "Ragged robin",
+        "Common spotted orchid (early)"
+      ],
+      "thingsToDo": [
+        {
+          "activity": "Wildflower meadow walks",
+          "when": "All June",
+          "description": "Visit North Meadow National Nature Reserve at Cricklade (Wiltshire) for the finest meadow in England. The meadow is on the Thames floodplain — 260 species of flowering plant recorded. Arrive early on a still June morning and count the species."
+        },
+        {
+          "activity": "Summer solstice at Stonehenge",
+          "when": "Around 21 June",
+          "description": "English Heritage opens Stonehenge to managed access around the solstice. Alternatively, watch the solstice sunrise from any local hill or prehistoric site. The solstice sunrise viewed from an ancient landscape is profoundly atmospheric."
+        },
+        {
+          "activity": "Glow-worm search",
+          "when": "After dark on warm June nights",
+          "description": "Search the chalk downland of the South Downs, North Downs, or Chilterns for glow-worms. Walk slowly and let your eyes dark-adapt. Noar Hill (Hampshire) and Queendown Warren (Kent) have reliable populations — check Wildlife Trust websites."
+        },
+        {
+          "activity": "Nightjar evening walk",
+          "when": "Dusk on warm evenings",
+          "description": "Arrive at lowland heathland — RSPB Arne, Thursley Common, Dunwich Heath — an hour before dusk. The churring begins at last light. Look for the male's wing-clapping display flights — a sight and sound unlike anything else in British nature."
+        }
+      ]
+    },
+    {
+      "id": "july",
+      "number": 7,
+      "name": "July",
+      "tagline": "The height of the English summer",
+      "summary": "July is summer at full pitch — long warm days, the drone of bees in clover, dragonflies quartering ponds and rivers with helicopter precision. It is also the month of subtle turning: swifts begin to drift south by late July, the first blackberries blush pink in hedgerows, and the evenings grow imperceptibly shorter. Chalk downland holds its greatest butterfly diversity; estuaries already receive the first returning waders heading south from Arctic breeding grounds.",
+      "heroPlant": "oxeye-daisy",
+      "season": "summer",
+      "natureEvents": [
+        {
+          "title": "Dragonfly season peaks",
+          "description": "July is the height of the dragonfly season. The emperor dragonfly — large, blue, and aggressive — dominates garden ponds and slow rivers; southern hawkers hunt along woodland rides; banded demoiselles dance over chalk streams. Over 40 species breed in Britain, and July is the best month to see the greatest variety."
+        },
+        {
+          "title": "Swifts begin to depart",
+          "description": "By the last week of July, swift numbers noticeably thin. They are the last summer migrants to arrive and among the first to leave. Their departure — the screaming parties that filled the sky just weeks before suddenly gone — is one of the first melancholy signs of the season's turn."
+        },
+        {
+          "title": "First returning waders arrive",
+          "description": "By mid-July, the first wading birds are already arriving back from their Arctic breeding grounds — greenshank, wood sandpiper, and little stint pass through coastal marshes and inland wetlands. This southward 'autumn' migration begins far earlier than most people realise."
+        },
+        {
+          "title": "Purple emperor butterfly season",
+          "description": "For two weeks in July, the magnificent purple emperor is on the wing in large lowland oak woods. Males are territorial and descend to drink from muddy puddles. Knepp Estate in Sussex hosts the highest densities in England — the male's iridescent purple flash in sunlight is breathtaking."
+        }
+      ],
+      "wildlife": [
+        {
+          "species": "Emperor dragonfly",
+          "type": "insect",
+          "note": "Britain's largest dragonfly — an imposing blue-and-green insect with a 10cm wingspan. Males are intensely territorial, patrolling a stretch of water at eye-level. Common at any well-vegetated still or slow-moving water — observe from the bank and they will often hover in front of you."
+        },
+        {
+          "species": "Purple emperor butterfly",
+          "type": "insect",
+          "note": "Apatura iris — one of Britain's most spectacular and elusive insects. The male's wings appear dusky black until the light catches them at the right angle, flashing iridescent purple. They live in the canopy of ancient oak woodland, rarely descending except to drink. Knepp, Bernwood Forest, and Chiddingfold are the best sites."
+        },
+        {
+          "species": "Silver-washed fritillary",
+          "type": "insect",
+          "note": "The largest fritillary butterfly in Britain — vivid orange with black markings — flying through sun-dappled woodland rides in July. The silver streaks on the hindwing underside give it its name. Ancient woodland with violets (the larval foodplant) and bramble flowers is prime habitat."
+        },
+        {
+          "species": "Harbour porpoise",
+          "type": "mammal",
+          "note": "Britain's smallest cetacean is visible from headlands and coastal vantage points in July, particularly in the Moray Firth, around Ramsey Island, and in the Menai Strait. Look for the small, triangular dorsal fin rolling briefly at the surface."
+        },
+        {
+          "species": "Marbled white butterfly",
+          "type": "insect",
+          "note": "Despite its name, the marbled white is a member of the brown butterfly family — unmistakably black and white, often found in large numbers on chalk and limestone grassland where its foodplant red fescue grows. Road verges on calcareous soils are surprisingly productive."
+        }
+      ],
+      "sky": {
+        "avgSunrise": "05:04",
+        "avgSunset": "21:09",
+        "highlights": [
+          "Days perceptibly shortening after the June solstice — losing around a minute of daylight per day",
+          "Delta Aquarid meteor shower active late July into August, peaking around 28–29 July",
+          "Jupiter rises in the east by midnight and dominates the southern sky through summer",
+          "The summer Milky Way runs from Scorpius low in the south through Sagittarius — best seen from dark sky sites"
+        ]
+      },
+      "seasonalVeg": [
+        "Courgettes",
+        "French beans",
+        "Tomatoes (early outdoor)",
+        "Sweetcorn (early)",
+        "Raspberries",
+        "Blackcurrants",
+        "Cherries",
+        "Fennel",
+        "Calabrese"
+      ],
+      "foraging": [
+        {
+          "name": "Bilberries",
+          "note": "Small, intensely flavoured cousins of the blueberry, bilberries ripen on heather moorland from mid-July. The deep purple-blue fruit stains fingers vivid crimson. Excellent raw, in pies, or as a syrup. Pick on Dartmoor, the Yorkshire Moors, or the Brecon Beacons."
+        },
+        {
+          "name": "Chanterelle mushrooms",
+          "note": "The egg-yolk yellow chanterelle erupts in mixed deciduous and pine woodland after summer rains — often under beech, oak, or birch. Unmistakable with its forked false gills and fruity apricot scent. Among the finest edible fungi — sauté in butter, with eggs or pasta."
+        },
+        {
+          "name": "Wild raspberry",
+          "note": "Found in woodland clearings and hedgerows — smaller than cultivated varieties but intensely flavoured. Also look for the dewberry — a low-growing bramble relative with a bloom-covered blue-black fruit ripening in July on chalk grassland and sand dunes."
+        },
+        {
+          "name": "Lime (linden) blossom",
+          "note": "The flowers of lime trees — filling city streets and parks in July — have a sweet, almost narcotic fragrance. Infuse dried flowers in hot water for a traditional tisane (tilleul), or use fresh flowers to flavour honey or syrups."
+        }
+      ],
+      "plantsInBloom": [
+        "Meadowsweet",
+        "Thistles (essential for butterflies)",
+        "Ragwort",
+        "Common spotted orchid (peak)",
+        "Purple loosestrife",
+        "Rosebay willowherb",
+        "Knapweed",
+        "Wild marjoram (chalk)"
+      ],
+      "thingsToDo": [
+        {
+          "activity": "Butterfly watching on chalk downland",
+          "when": "Warm sunny days above 18°C",
+          "description": "July is peak chalk downland butterfly season. Visit Box Hill (Surrey), Cissbury Ring (Sussex), or Martin Down (Hampshire) for silver-spotted skippers, chalkhill blues, dark green fritillaries, and marbled whites — all in a single afternoon."
+        },
+        {
+          "activity": "Dragonfly pond watch",
+          "when": "Warm, still July days",
+          "description": "Sit at the edge of a well-vegetated pond or slow river for an hour on a warm, still day. Bring binoculars and a field guide — you may see a dozen species. The British Dragonfly Society runs dragonfly days at wetland reserves across the country."
+        },
+        {
+          "activity": "Purple emperor at Knepp",
+          "when": "First two weeks of July",
+          "description": "Knepp Estate in West Sussex offers guided purple emperor sessions in early July. Arrive at a woodland ride muddy puddle or sap-run from mid-morning; the emperors descend to drink ground minerals. Book via the Knepp Estate website."
+        },
+        {
+          "activity": "Coastal headland sea-watching",
+          "when": "Westerly winds in July",
+          "description": "Sea-watching from a west or south-facing headland in a July westerly can produce Manx shearwaters, gannets, storm petrels, and the first skua passage of the year. Try Portland Bill, Lizard Point, or Strumble Head."
+        }
+      ]
+    },
+    {
+      "id": "august",
+      "number": 8,
+      "name": "August",
+      "tagline": "The last of the long days",
+      "summary": "August carries the warmth and fullness of summer, but autumn threads through its edges. Rowan berries redden early, swifts vanish overnight, and the first flocks of lapwings gather in newly cut fields. Heather moorland turns vivid purple — the moors of the North York Moors and Cairngorms blazing under late summer skies. And on 11–13 August, Halley's Comet makes its annual contribution via the Perseid meteor shower.",
+      "heroPlant": "heather",
+      "season": "summer",
+      "natureEvents": [
+        {
+          "title": "Heather moorland reaches full bloom",
+          "description": "Ling heather across upland Britain turns deep purple in August — the moors of the Peak District, North York Moors, and Cairngorms are spectacular. Walking through heather on a warm August morning among clouds of bees is one of the great British landscape experiences."
+        },
+        {
+          "title": "Perseid meteor shower peaks (11–13 August)",
+          "description": "The most reliable and anticipated meteor shower of the year. Dust from the tail of Comet Swift-Tuttle burns up in Earth's atmosphere at up to 100 meteors per hour at peak. The radiant is in the constellation Perseus, rising in the north-east after midnight."
+        },
+        {
+          "title": "Gannet passage off western headlands",
+          "description": "August sees peak gannet numbers off western coasts — the UK's largest seabird, ice-white with a golden head and 180cm wingspan, diving from height at extraordinary speed. The gannets are heading from northern breeding colonies toward wintering grounds off West Africa."
+        },
+        {
+          "title": "Ospreys begin their southward migration",
+          "description": "Scottish ospreys — and birds from Scandinavian populations — start moving south through England from mid-August, pausing at reservoirs and fisheries. A fishing osprey, hovering then plunging feet-first for a trout, is a spectacular encounter now possible across England."
+        }
+      ],
+      "wildlife": [
+        {
+          "species": "Red grouse",
+          "type": "bird",
+          "note": "The iconic bird of the upland moors — the explosive 'go-back, go-back' call, the whirring low flight over heather, the deep russet plumage. The 12th August (the Glorious Twelfth) opens the grouse shooting season, and the moors are at their most vivid."
+        },
+        {
+          "species": "Osprey",
+          "type": "bird",
+          "note": "Once extinct in England as a breeding bird, ospreys now breed at Rutland Water, Kielder, and Welsh sites, with numbers growing. August migrants from Scotland and Scandinavia pass through regularly, pausing at large lakes and reservoirs."
+        },
+        {
+          "species": "Puffin",
+          "type": "bird",
+          "note": "The Farne Islands (Northumberland), Skomer (Pembrokeshire), and Sumburgh Head (Shetland) host Britain's Atlantic puffin colonies. The birds are present until late August, their comical bills packed with sand eels. Late August is last chance before they return to sea."
+        },
+        {
+          "species": "Painted lady butterfly",
+          "type": "insect",
+          "note": "In good years, millions of painted ladies migrate north from North Africa, arriving on British coasts from July and breeding through August. The UK generation reverses the migration back south in late summer — an extraordinary navigational feat for an insect."
+        },
+        {
+          "species": "Grey seal",
+          "type": "mammal",
+          "note": "The first grey seal pups are born in August on some Scottish island colonies, though the main pupping season is September–November. The pure white pups are born on beaches and rocky shores; mothers return to sea within three weeks, leaving the pups to fend for themselves."
+        }
+      ],
+      "sky": {
+        "avgSunrise": "05:59",
+        "avgSunset": "20:28",
+        "highlights": [
+          "Perseid meteor shower peaks August 11–13 — up to 100 meteors per hour, radiant in Perseus, best after midnight",
+          "The Summer Triangle (Vega, Deneb, Altair) is overhead at midnight — a landmark for naked-eye astronomy",
+          "Noctilucent cloud season ends in August — last chance to see these high-altitude ice clouds",
+          "Days shortening noticeably — losing over two minutes of daylight per day by mid-August"
+        ]
+      },
+      "seasonalVeg": [
+        "Tomatoes (peak)",
+        "Sweetcorn",
+        "Runner beans",
+        "Courgettes",
+        "Aubergine",
+        "Plums",
+        "Blackberries (early)",
+        "Damsons",
+        "Figs",
+        "Chard"
+      ],
+      "foraging": [
+        {
+          "name": "Blackberries",
+          "note": "The first blackberries ripen in sheltered, sunny hedgerows from mid-August. The best flavour comes after a period of dry warm weather. Blackberry and apple crumble, jelly, or cordial are the classic uses. The bramble also provides vital habitat for nesting birds."
+        },
+        {
+          "name": "Crab apples",
+          "note": "Crab apple trees fruit heavily in August and September — small, vivid red or yellow fruits with a sharp, complex flavour that makes superb jelly. Too tart to eat raw, but they add pectin and flavour to jams, jellies, and ciders."
+        },
+        {
+          "name": "Chanterelles and ceps",
+          "note": "In good years with August rain followed by warmth, both chanterelles and penny bun ceps appear from mid-August in oak and beech woodland. The cep's brown bun cap, white spongy pores, and reticulated stem are distinctive. Always carry a field guide."
+        },
+        {
+          "name": "Cobnuts and hazelnuts",
+          "note": "Wild hazelnuts ripen in late August and can be eaten green (mild, milky flavour) or stored to dry into the familiar nut. Look in hedgerows and woodland edges — where there were catkins in February, there should be nuts in August."
+        }
+      ],
+      "plantsInBloom": [
+        "Heather (ling, peak)",
+        "Bell heather",
+        "Ragwort (vital for cinnabar moth)",
+        "Hemp agrimony",
+        "Sea lavender (coastal saltmarsh)",
+        "Harebell",
+        "Devil's bit scabious (early)"
+      ],
+      "thingsToDo": [
+        {
+          "activity": "Perseid meteor shower",
+          "when": "Night of 11–13 August",
+          "description": "Find a dark sky location — the Brecon Beacons, Exmoor, or Galloway Forest Park (all designated Dark Sky Reserves) — and lie on a blanket facing northeast from midnight. No telescope needed; just patience and warm clothing."
+        },
+        {
+          "activity": "Puffin colonies (last chance)",
+          "when": "All August",
+          "description": "August is the final month to see puffins at their breeding colonies. Boat trips from Seahouses to the Farne Islands, or the short crossing to Skomer from Martin's Haven, offer close encounters with thousands of birds. Book well in advance."
+        },
+        {
+          "activity": "Heather moorland walks",
+          "when": "All August",
+          "description": "Walk the heather moorland at its peak. The Rosedale circuit on the North York Moors, the Lammermuir Hills in Scotland, or the Ridgeway on the Berkshire Downs are spectacular. Early morning, when the bees and the scent are at their peak, is best."
+        },
+        {
+          "activity": "Sea-watching from a western headland",
+          "when": "Westerly weather in August",
+          "description": "Standing at Portland Bill, St David's Head, or Strumble Head in a westerly wind in August produces gannet, Manx shearwater, sooty shearwater, and the first Arctic skuas of the return migration."
+        }
+      ]
+    },
+    {
+      "id": "september",
+      "number": 9,
+      "name": "September",
+      "tagline": "The fulcrum of the year",
+      "summary": "September is the pivot on which the year turns. The air carries a new quality — cooler, damper, with a faint smell of leaf mould and fungi — and the light has lost its summer harshness and become liquid gold. Swallows mass on telegraph wires before their miraculous journey to South Africa; fieldfares chatter in the first hawthorn-raided hedgerows; and red deer stags begin to roar in valley mist at dawn. The harvest is in; the fungi emerge; the year is ending as it began — slowly, richly, with great beauty.",
+      "heroPlant": "rosehip",
+      "season": "autumn",
+      "natureEvents": [
+        {
+          "title": "Swallow and martin departure",
+          "description": "September is the great departure month. House martins gather on overhead wires and rooftops, building their numbers for weeks before suddenly vanishing. Swallows linger longer, hunting the last insects over stubbly fields. The final swallow sighting of the year — often alone, often late — is tinged with sadness."
+        },
+        {
+          "title": "Autumnal equinox (~22–23 September)",
+          "description": "Equal day and night. From here, darkness gains on light until the winter solstice. The harvest moon — the full moon nearest the equinox — rises at nearly the same time for several evenings, providing light for late harvests, its golden quality on the horizon spectacular."
+        },
+        {
+          "title": "Red deer rut begins",
+          "description": "The red deer rut builds from late September in upland Britain. Stags establish territories, roar continuously — the sound carrying miles through still dawn air — and clash antlers with rivals. The rut peaks in October, but late September is when it ignites."
+        },
+        {
+          "title": "First fungi of autumn",
+          "description": "With the first sustained autumn rains following summer's heat, fungi begin erupting across woodland floors, fields, and parks. Fly agaric appears in fairy rings under birch; giant puffballs swell in meadows; chanterelles continue in oak woodland. The season accelerates through October."
+        }
+      ],
+      "wildlife": [
+        {
+          "species": "Barn swallow",
+          "type": "bird",
+          "note": "Hirundo rustica — the swallow, an archetype of summer, begins its 6,000-mile journey to southern Africa from late September. The last swallows often linger into October, feeding on final warm-air insects. Each autumn departure is a small grief; each spring return an unbounded joy."
+        },
+        {
+          "species": "Red deer",
+          "type": "mammal",
+          "note": "The rut begins in late September on Exmoor, in the Highlands, and in Richmond Park. The stag's roar — a deep, repeated bellow — is one of the most primally exciting sounds in British nature. Rutting stags lose condition rapidly; the contest is not just for hinds but survival."
+        },
+        {
+          "species": "Common seal",
+          "type": "mammal",
+          "note": "Unlike the grey seal, common seals give birth in June and July; by September the pups are independent. Seal haul-out sites on the Norfolk coast (Blakeney Point), Farne Islands, and the Wash are excellent for autumn watching."
+        },
+        {
+          "species": "Garden spider",
+          "type": "insect",
+          "note": "Araneus diadematus reaches full size in September and creates perfect spiral webs most visible in morning dew. The female may be three times the size of the male. The web-building instinct is entirely hardwired — each spider builds the same pattern without being taught."
+        },
+        {
+          "species": "Migrant hawker dragonfly",
+          "type": "insect",
+          "note": "The aptly named migrant hawker continues flying into September and even October — one of the last dragonflies of the year. Look for it hunting along woodland rides and hedgerow edges, often far from water. The blue and yellow mosaic pattern is distinctive."
+        }
+      ],
+      "sky": {
+        "avgSunrise": "06:48",
+        "avgSunset": "19:34",
+        "highlights": [
+          "Autumnal equinox around 22–23 September — equal day and night, then darkness takes over",
+          "Harvest Moon rises at sunset with a rich orange colour — the full moon nearest the equinox",
+          "Saturn reaches opposition in September, its rings clearly visible through binoculars — the most beautiful sight in the solar system",
+          "The Milky Way is well placed in the evening sky throughout September on dark, clear nights"
+        ]
+      },
+      "seasonalVeg": [
+        "Apples (early varieties)",
+        "Pears",
+        "Plums",
+        "Butternut squash",
+        "Sweetcorn (last)",
+        "Kale (early)",
+        "Leeks",
+        "Tomatoes (last outdoor)"
+      ],
+      "foraging": [
+        {
+          "name": "Rosehips",
+          "note": "Dog rose hips glow scarlet in hedgerows from late September — plump, vivid, and vitamin-rich (twenty times more vitamin C than oranges, weight for weight). Make rose hip syrup, tea, jelly, or infuse in brandy. Harvest after the first soft frosts for the best flavour."
+        },
+        {
+          "name": "Crab apples",
+          "note": "September sees crab apple trees bent under their load. Too astringent raw, they make superb jelly with hawthorn berries, spiced apple butter, or verjuice. Look for crab apples in old hedgerows — they are often the oldest trees in the landscape."
+        },
+        {
+          "name": "Sloes (early)",
+          "note": "Sloe berries on blackthorn hedges ripen after the first frosts — often mid to late September in northern England. The fruit is mouth-puckeringly astringent raw but essential for sloe gin or sloe vodka, which needs at least three months to mature."
+        },
+        {
+          "name": "Wild damsons",
+          "note": "September is peak damson season in old orchards and hedgerows, especially in the Lake District, Shropshire, and the Vale of Evesham. Damsons make extraordinary jam, cheese, and gin. Many old damson orchards are managed by local preservation groups."
+        }
+      ],
+      "plantsInBloom": [
+        "Ivy (most important late-season nectar source)",
+        "Michaelmas daisy",
+        "Autumn crocus (Colchicum)",
+        "Heather (fading)",
+        "Devil's bit scabious",
+        "Slender St John's wort"
+      ],
+      "thingsToDo": [
+        {
+          "activity": "Red deer rut watching",
+          "when": "Late September, dawn and dusk",
+          "description": "Richmond Park in London is the most accessible location — arrive at any car park at dawn and you'll hear and see the rut within minutes. Exmoor, the New Forest, and Minsmere also have excellent access. Never approach rutting stags — they are genuinely dangerous."
+        },
+        {
+          "activity": "Sea-watching for Manx shearwaters",
+          "when": "All September, especially westerly weather",
+          "description": "September sees large Manx shearwater passage from their Welsh breeding colonies off western coasts. Strumble Head (Pembrokeshire), Lizard Point, and Portland Bill are prime sites. The stiff-winged, banking flight low over waves is distinctive."
+        },
+        {
+          "activity": "Fungi forays begin",
+          "when": "All September, especially after rain",
+          "description": "The season is starting. Join a guided foray through your local Wildlife Trust or Woodland Trust — the enthusiasm of expert foragers is infectious, and the variety of species in September is extraordinary. Always use a reliable field guide and never eat anything unidentified."
+        },
+        {
+          "activity": "Harvest moon stargazing",
+          "when": "Around the September full moon",
+          "description": "Watch the September full moon rise so close to the horizon that its orange and amber tones are extraordinary. Find an elevated position — a hill or cliff — as it clears the horizon. The Pleiades rise alongside it in September."
+        }
+      ]
+    },
+    {
+      "id": "october",
+      "number": 10,
+      "name": "October",
+      "tagline": "The burning of the year",
+      "summary": "October is the month of fire and transformation. The woodland canopy ignites in amber, crimson, and gold as trees begin their spectacular annual retreat. Fungi push through leaf litter, red deer stags roar in valley mist, and the last hirundines stream south overhead. There is a melancholy beauty to October — a richness that feels like a final, magnificent gesture before winter closes in.",
+      "heroPlant": "oak-acorn",
+      "season": "autumn",
+      "natureEvents": [
+        {
+          "title": "Peak autumn colour",
+          "description": "October is the crescendo of autumn colour in Britain. Beech, oak, field maple, wild cherry, and rowan create a tapestry of gold, amber, and deep red. Ancient woodland and parkland offer the finest displays — Westonbirt Arboretum, the New Forest, and the Lake District are spectacular."
+        },
+        {
+          "title": "Fungi season peaks",
+          "description": "October is prime fungi season — mild damp conditions after September rains bring extraordinary eruptions of mushrooms and toadstools across woodland floors, meadows, and parks. Fly agaric, penny bun, chicken of the woods, and the ghostly white puffball are among the dozens of species at peak fruiting."
+        },
+        {
+          "title": "Red deer rut",
+          "description": "The red deer rut is in full swing across upland Britain — Exmoor, the Scottish Highlands, Richmond Park, and the New Forest. Dominant stags roar, clash antlers, and marshal their harems. The sound of two stags fighting echoes across misty valley floors at dawn."
+        },
+        {
+          "title": "Starling murmurations begin",
+          "description": "The first murmurations of the season appear as starlings begin roosting communally. Watch at dusk over reedbeds and woodland edges — thousands to hundreds of thousands of birds performing fluid aerial ballets before dropping to roost. Somerset Levels and Brighton Pier are famous spots."
+        }
+      ],
+      "wildlife": [
+        {
+          "species": "Red deer",
+          "type": "mammal",
+          "note": "Britain's largest land mammal in its finest hour. Stags roar continuously through October nights and days, challenging rivals and herding hinds. The sheer power and noise is extraordinary to witness at close range in Richmond Park or on Exmoor."
+        },
+        {
+          "species": "Fly agaric",
+          "type": "fungus",
+          "note": "The fairy-tale toadstool — vivid scarlet cap with white warts — erupts in rings under silver birch trees from October. Toxic but iconic. Found in birch and pine woodland across the UK. Do not eat."
+        },
+        {
+          "species": "Tawny owl",
+          "type": "bird",
+          "note": "October marks the start of the tawny owl's territory establishment — the iconic tu-whit tu-whoo (actually a duet between male and female) echoes through woodland at night. Urban gardens, parks, and churchyards all host tawny owls."
+        },
+        {
+          "species": "Fieldfare",
+          "type": "bird",
+          "note": "Large, handsome thrushes from Scandinavia begin arriving from mid-October, often in large flocks. Their harsh 'chack-chack' call is one of October's signature sounds as they descend on berry-laden hawthorn and rowan hedgerows."
+        },
+        {
+          "species": "Penny bun (cep/porcini)",
+          "type": "fungus",
+          "note": "The most prized edible wild mushroom in Britain — rich brown bun-shaped cap, thick white stem, no gills (has pores instead). Found under oak, beech, and birch in ancient woodland. Peak season October in most years, depending on September rainfall."
+        }
+      ],
+      "sky": {
+        "avgSunrise": "07:45",
+        "avgSunset": "18:15",
+        "highlights": [
+          "Orionid meteor shower peaks October 21–22, debris from Halley's Comet — up to 25 meteors per hour",
+          "Clocks go back (GMT returns) last Sunday of October — darker evenings begin",
+          "Jupiter at or near opposition — largest and brightest in the sky all night",
+          "The Milky Way arches overhead on dark October nights, increasingly visible as summer haze clears"
+        ]
+      },
+      "seasonalVeg": [
+        "Butternut squash",
+        "Pumpkins",
+        "Parsnips",
+        "Celeriac",
+        "Kale",
+        "Leeks",
+        "Jerusalem artichokes",
+        "Apples (Cox, Bramley)"
+      ],
+      "foraging": [
+        {
+          "name": "Penny bun (cep/porcini)",
+          "note": "The king of edible fungi — nutty, meaty, intensely flavoured. Slice and fry in butter, dry for intense winter use, or make porcini risotto. Found under oak and beech in ancient woodland. Always carry a field guide and be certain of identification."
+        },
+        {
+          "name": "Sloes",
+          "note": "Dark blue-black berries of the blackthorn hedge, now fully ripe after early frosts. Mouth-puckeringly astringent raw, but sublime made into sloe gin (6 months minimum), sloe vodka, or sloe and apple jelly."
+        },
+        {
+          "name": "Sweet chestnuts",
+          "note": "Falling from their spiny cases in October, sweet chestnuts are a forager's gold. Roast on an open fire, make chestnut soup, or preserve in syrup. Found in ancient parkland — Kew Gardens, Petworth Park. Beware conkers (horse chestnuts) which are inedible."
+        },
+        {
+          "name": "Hawthorn berries (haws)",
+          "note": "Deep red haws hang heavy in hedgerows — their peak season is October. High in antioxidants and pectin. Make haw ketchup, haw jelly, or a warming haw brandy. Combine with crab apple for an extraordinary jelly."
+        }
+      ],
+      "plantsInBloom": [
+        "Ivy (vital late nectar for bees)",
+        "Cyclamen (garden varieties)",
+        "Autumn gentian (chalk downland)",
+        "Gorse (sporadic)"
+      ],
+      "thingsToDo": [
+        {
+          "activity": "Starling murmuration watching",
+          "when": "Dusk throughout October",
+          "description": "Arrive at a known roost site — Ham Wall RSPB reserve in Somerset, Brighton Pier, or Aberystwyth Pier — 30 minutes before sunset. The murmurations build as more groups join; the aerial display can last up to 45 minutes."
+        },
+        {
+          "activity": "Fungi forays",
+          "when": "All October, especially after rain",
+          "description": "Join a guided fungi foray through your local Wildlife Trust or Woodland Trust — expert guidance makes identification safe and reliable. Ancient oak and beech woodland offers the greatest diversity. Never eat anything unidentified."
+        },
+        {
+          "activity": "Red deer rut",
+          "when": "First three weeks of October",
+          "description": "Richmond Park in London is extraordinary — you can watch stags within 50 metres at dawn. Exmoor and the New Forest offer wilder experiences. Stay on paths, keep dogs close, and never approach stags during the rut."
+        },
+        {
+          "activity": "Orionid meteor shower",
+          "when": "Night of 21–22 October",
+          "description": "Halley's Comet debris burns up overhead — up to 25 meteors per hour. Head to a dark sky location — the Brecon Beacons Dark Sky Reserve or Dartmoor offer spectacular views. Wrap up warm and allow 20 minutes for eyes to dark-adapt."
+        }
+      ]
+    },
+    {
+      "id": "november",
+      "number": 11,
+      "name": "November",
+      "tagline": "The year draws in",
+      "summary": "November strips the year bare. Beech and hornbeam retain their leaves longest — tawny, papery, clinging — but by month's end the trees are reduced to filigree against pale grey skies. There is beauty in this sparseness: the shapes of trees, so long hidden by foliage, are revealed again; frost silvers spiders' webs in dawn hedgerows; the liquid call of a robin fills a darkening garden. The fieldfares and redwings have arrived; the first waxwings appear in supermarket car parks. Nature is concentrating, not ending.",
+      "heroPlant": "bare-tree",
+      "season": "autumn",
+      "natureEvents": [
+        {
+          "title": "Peak autumn leaf fall (beech and hornbeam)",
+          "description": "Beech and hornbeam hold their dead leaves — tawny, amber, and warm brown — long into November, in a process called marcescence. Ancient beech woods like Burnham Beeches, Epping Forest, and the Chilterns are extraordinary in early November — carpets of copper, tunnel-like canopies barely thinned."
+        },
+        {
+          "title": "Pink-footed geese arrive in force",
+          "description": "Tens of thousands of pink-footed geese from Iceland and Greenland settle into their winter headquarters in November. The skeins over North Norfolk (Wells and Holkham), the Lancashire mosses, and the Solway Firth are one of Britain's most spectacular wildlife events — the sound extraordinary."
+        },
+        {
+          "title": "Waxwing irruptions",
+          "description": "In years of berry failure in Scandinavia, waxwings erupt into Britain in extraordinary numbers — flocks of dozens or hundreds descend on berry-laden rowan and cotoneaster in supermarket car parks and suburban gardens. Their crested silhouette and ringing call are unmistakable."
+        },
+        {
+          "title": "Woodcock arrive from Russia",
+          "description": "Woodcock arrive on east-coast beaches from Russia and Scandinavia in October and November, sometimes in large 'falls' during foggy weather. They fan out across the country to winter in sheltered woodland, where their extraordinary cryptic plumage makes them almost invisible among dead leaves."
+        }
+      ],
+      "wildlife": [
+        {
+          "species": "Pink-footed goose",
+          "type": "bird",
+          "note": "Anser brachyrhynchus — a compact, brown-grey goose with a distinctively small pink-and-black bill. They roost on coastal mudflats and estuaries, flying inland at dawn in long, undulating skeins to feed on harvested fields. The noise of 50,000 birds lifting at once is unforgettable."
+        },
+        {
+          "species": "Waxwing",
+          "type": "bird",
+          "note": "A bird of extraordinary beauty from the Scandinavian taiga. Silky plumage of fawn, grey, and chestnut; a prominent crest; red 'sealing wax' spots on secondary feathers. They consume their body weight in berries daily. Check rowans in supermarket car parks — this is genuinely the best way to find them."
+        },
+        {
+          "species": "Woodcock",
+          "type": "bird",
+          "note": "One of Britain's most elusive birds — its plumage of dead-leaf tawny and brown is near-perfect camouflage against the woodland floor. It feeds at night by probing soft soil with its long, sensitive bill. Rarely seen until flushed; the surprise of a woodcock erupting from leaf litter is startling every time."
+        },
+        {
+          "species": "Redwing",
+          "type": "bird",
+          "note": "The UK's smallest true thrush, arriving from Iceland and Scandinavia in large numbers. The vivid red-orange underwing flash and creamy supercilium are distinctive. Redwings move through gardens in hard weather, stripping berry bushes and foraging on lawns for earthworms."
+        },
+        {
+          "species": "Dipper",
+          "type": "bird",
+          "note": "A small, wren-like bird with a brilliant white bib that walks underwater along stony stream beds, feeding on invertebrates. Resident year-round on fast-flowing upland rivers, dippers become easier to spot in November as bankside vegetation dies back."
+        }
+      ],
+      "sky": {
+        "avgSunrise": "07:14",
+        "avgSunset": "16:12",
+        "highlights": [
+          "Leonid meteor shower peaks around 17–18 November — normally 10–15 meteors per hour, but occasionally produces spectacular storms",
+          "Long nights make November and December the best months for deep-sky observing",
+          "Jupiter and Saturn well placed in the evening sky",
+          "The Pleiades (Seven Sisters) are at their highest and most prominent on November evenings — look for the tiny cluster in Taurus"
+        ]
+      },
+      "seasonalVeg": [
+        "Parsnips",
+        "Celeriac",
+        "Kale",
+        "Brussels sprouts",
+        "Leeks",
+        "Swede",
+        "Beetroot",
+        "Jerusalem artichokes",
+        "Salsify"
+      ],
+      "foraging": [
+        {
+          "name": "Wood blewit",
+          "note": "A vivid purple-blue mushroom with a distinctive sweet, perfumed scent, wood blewits appear in leaf litter and compost heaps from October to December. One of the few late-season mushrooms to continue fruiting through frosts. Must be cooked — raw wood blewits can cause digestive upset."
+        },
+        {
+          "name": "Winter chanterelles (yellowfoot)",
+          "note": "Smaller and more delicate than summer chanterelles, yellowfoot mushrooms (Craterellus tubaeformis) fruit in mixed woodland from October into December. Their distinctive hollow stem and yellow-brown funnel cap are characteristic. Excellent in omelettes and pasta."
+        },
+        {
+          "name": "Hedgerow berries (final harvest)",
+          "note": "Last chance for rosehips, hawthorn berries, and any remaining sloes before birds strip the hedges clean. A final sortie along a well-stocked hedgerow — a flask of tea in hand, frost crunching underfoot — is one of autumn's quiet pleasures."
+        },
+        {
+          "name": "Mahonia berries",
+          "note": "The dark blue-black berries of garden mahonia are edible — tart and grape-like, high in antioxidants. A single mahonia bush can produce kilograms of berries in November and December. Make into jelly, syrup, or wine."
+        }
+      ],
+      "plantsInBloom": [
+        "Ivy (still vital for late insects — the last nectar source of the year)",
+        "Gorse (sporadic through winter)",
+        "Viburnum",
+        "Mahonia (begins)",
+        "Witch hazel (earliest varieties)"
+      ],
+      "thingsToDo": [
+        {
+          "activity": "Pink-footed goose dawn lift",
+          "when": "All November, before dawn",
+          "description": "Arrive at Wells-next-the-Sea, Holkham, or the Ribble Estuary before first light. The geese lift off the roost in huge waves, the noise extraordinary — tens of thousands of calls overlapping as they form long skeins across the dawn sky."
+        },
+        {
+          "activity": "Waxwing hunting",
+          "when": "All November — check alerts",
+          "description": "Check birdguides.com or the RSPB Twitter feed for the latest waxwing sightings and go immediately — they move on fast. Supermarket car parks with rowans or cotoneasters in suburban areas are the most productive sites."
+        },
+        {
+          "activity": "Leonid meteor shower",
+          "when": "Night of 17–18 November",
+          "description": "The Leonids peak on the night of 17–18 November. In most years 10–15 meteors per hour, but the shower has produced storms of thousands per hour in exceptional years. Wrap up warmly and watch from a dark, open site facing east."
+        },
+        {
+          "activity": "Ancient beech woodland in autumn colour",
+          "when": "Early November",
+          "description": "Visit Burnham Beeches in Buckinghamshire, Epping Forest, or the Chilterns for the last of the autumn colour. Ancient pollarded beeches, their trunks silver-grey with age, hold their brown leaves longest — the wood is simultaneously bare and richly coloured."
+        }
+      ]
+    },
+    {
+      "id": "december",
+      "number": 12,
+      "name": "December",
+      "tagline": "The year's deep rest",
+      "summary": "December reaches its nadir at the solstice — the shortest day, the longest night — before the year begins its imperceptible return. Yet it is never truly still: robin song fills winter gardens with liquid precision, kingfishers flash electric blue along frost-fringed rivers, and the Geminid meteor shower lights up the longest nights. Holly berries flame in hedgerows; the first snowdrops press upward in sheltered gardens. There is something deeply reassuring about December nature — it endures, it rests, and it persists.",
+      "heroPlant": "holly",
+      "season": "winter",
+      "natureEvents": [
+        {
+          "title": "Winter solstice (~21 December)",
+          "description": "The astronomical turning point of the year. Darkness is at its maximum; from this moment, the year begins its return to light. In the UK at 51°N, the sun barely rises above 16° at noon on the solstice — its light slanting, golden, and fleeting. Stonehenge and many other ancient sites are aligned to the solstice sunrise."
+        },
+        {
+          "title": "Geminid meteor shower (13–14 December)",
+          "description": "Often rated the finest meteor shower of the year — up to 120 multicoloured meteors per hour at peak, produced by debris from the unusual asteroid 3200 Phaethon. Unlike most showers, the Geminids are visible from dusk (the radiant is high from 9pm), so you don't need to stay up until 3am."
+        },
+        {
+          "title": "Waxwing season continues",
+          "description": "Waxwing numbers build through December as they exhaust berry crops and move on in search of more. Cold weather in Scandinavia drives more birds west. A flock working through a suburban rowan or cotoneaster is one of winter's most accessible wildlife spectacles."
+        },
+        {
+          "title": "First snowdrops in sheltered spots",
+          "description": "In very sheltered, south-facing locations in the south of England and in ancient churchyard gardens, the first snowdrop bulb-noses may emerge in late December. This is not the main flowering season (that comes in January–February), but these early pioneers are among the most cheering of all natural signs."
+        }
+      ],
+      "wildlife": [
+        {
+          "species": "Robin",
+          "type": "bird",
+          "note": "The robin's song — complex, liquid, melancholy — fills winter gardens with beauty precisely because other birds are silent. Robins sing year-round and are territorial through winter, with both males and females holding territories. They sing from lampposts, aerials, and bare branches in the shortest days."
+        },
+        {
+          "species": "Kingfisher",
+          "type": "bird",
+          "note": "Britain's most brilliantly coloured resident bird moves to lowland rivers and streams in winter, where lack of vegetation makes it far easier to spot. The 'electric blue' of the back and vivid orange breast make it unmistakable. Watch from bridges over clear chalk streams on still December mornings."
+        },
+        {
+          "species": "Waxwing",
+          "type": "bird",
+          "note": "Bombycilla garrulus continues to be the star of the winter bird show through December. Check RSPB and Birdguides alerts for the latest sightings. In a good irruption year, you may see hundreds in a single location — their trilling calls are extraordinarily beautiful."
+        },
+        {
+          "species": "Dipper",
+          "type": "bird",
+          "note": "Dippers bob on midstream rocks, then walk deliberately under the surface to feed on caddisfly larvae and freshwater shrimps. The white bib flashes in the grey winter light. Fast-flowing upland rivers — the Wye, Exe, Dart, and most Scottish rivers — are reliable year-round sites."
+        },
+        {
+          "species": "Short-eared owl",
+          "type": "bird",
+          "note": "One of the few owls that regularly hunts in daylight, the short-eared owl quarters rough grassland and coastal marshes in winter. Their buoyant, moth-like flight and intense yellow eyes are distinctive. Numbers are boosted by birds from Scandinavia. Humberside, the Norfolk coast, and Orkney are reliable sites."
+        }
+      ],
+      "sky": {
+        "avgSunrise": "08:04",
+        "avgSunset": "15:55",
+        "highlights": [
+          "Geminid meteor shower peaks 13–14 December — up to 120 multicoloured meteors per hour, one of the year's finest",
+          "Winter solstice around 21 December — the year's darkest point and the beginning of the return to light",
+          "Ursid meteor shower around 22–23 December — modest but coinciding with the solstice",
+          "The winter sky at its most spectacular: Orion, Taurus, Gemini, Auriga overhead; Sirius rising in the south-east"
+        ]
+      },
+      "seasonalVeg": [
+        "Brussels sprouts",
+        "Parsnips",
+        "Kale",
+        "Red cabbage",
+        "Celeriac",
+        "Leeks",
+        "Chestnuts (stored)",
+        "Forced chicory",
+        "Jerusalem artichokes"
+      ],
+      "foraging": [
+        {
+          "name": "Velvet shank mushroom",
+          "note": "One of the few fungi that fruits through winter frosts — velvet shank (Flammulina velutipes) grows in clusters on dead elm, oak, and other hardwoods. Bright orange-brown caps and dark velvety stems are distinctive. Best in stir-fries or miso soups. The cultivated version is sold as enokitake."
+        },
+        {
+          "name": "Winter chanterelles (yellowfoot)",
+          "note": "The season continues through December in mild years. Yellowfoot chanterelles fruit in mixed woodland, often in the same spots as summer chanterelles. Their hollow stem, grey-brown funnel cap, and faint apricot scent make them identifiable."
+        },
+        {
+          "name": "Mahonia berries",
+          "note": "The dark blue-black berries of garden mahonia are edible — tart, grape-like, and high in antioxidants. A single sprawling mahonia bush can produce kilograms of berries in December. Make into jelly, syrup, or wine — the flavour benefits from long cooking with sugar."
+        },
+        {
+          "name": "Sweet chestnuts (stored)",
+          "note": "Sweet chestnuts harvested in October keep well in a cool dry place through December. Roast on a fire or in a dry pan, slash the shells first. Or make marrons glacés, chestnut stuffing, or a rich chestnut soup. The ultimate winter comfort food from British woodland."
+        }
+      ],
+      "plantsInBloom": [
+        "Holly (berries)",
+        "Ivy (berries, vital for winter birds)",
+        "Mahonia (full bloom)",
+        "Winter cherry (Prunus subhirtella)",
+        "Hellebore (earliest)",
+        "Winter jasmine",
+        "Snowdrop (very earliest, sheltered spots)"
+      ],
+      "thingsToDo": [
+        {
+          "activity": "Geminid meteor shower",
+          "when": "Night of 13–14 December",
+          "description": "Arrive at a dark sky location by 9pm — the radiant is already high enough for good viewing. The Geminids produce coloured meteors (yellows, reds, blues) and slower fireballs. Wrap up completely; even mild December nights become bitterly cold when lying still for hours."
+        },
+        {
+          "activity": "Solstice sunrise",
+          "when": "Around 21 December",
+          "description": "Mark the turning of the year by watching the sun rise on 21 December. Find a hill with an eastern horizon and arrive 30 minutes early. The solstice sun rises at its most southerly point — in the south-east in England, barely clearing the horizon at midday. English Heritage opens Stonehenge for the occasion."
+        },
+        {
+          "activity": "Kingfisher spotting on chalk streams",
+          "when": "Still winter mornings",
+          "description": "Walk slowly along a chalk stream — the Test, Itchen, Kennet, or any clear-flowing lowland river — on a still December morning. Move quietly; watch for the electric-blue arrow low over the water. A kingfisher in December light is one of winter's finest gifts."
+        },
+        {
+          "activity": "Garden bird count",
+          "when": "Any December morning",
+          "description": "The BTO Garden BirdWatch runs year-round. Spending an hour counting birds in your garden or local park on a December morning contributes to long-term monitoring and connects you to the rhythms of the natural world, however urban your surroundings."
+        }
+      ]
+    }
+  ]
+}

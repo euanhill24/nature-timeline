@@ -1,0 +1,50 @@
+/* ============================================================
+   animations.css — CSS keyframe animations
+   ============================================================ */
+
+/* Scroll arrow bounce */
+@keyframes bounce {
+  0%, 100% { transform: translateY(0); }
+  50%       { transform: translateY(6px); }
+}
+
+/* Subtle pulse for active nav dot */
+@keyframes pulse {
+  0%, 100% { box-shadow: 0 0 0 0 var(--accent); }
+  50%       { box-shadow: 0 0 0 4px transparent; }
+}
+
+.nav-month-link.is-active {
+  animation: pulse 3s ease-in-out infinite;
+}
+
+/* Fade up — used for elements that need visible fallback */
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* SVG draw-on via CSS (fallback / reduced motion) */
+@keyframes drawOn {
+  to { stroke-dashoffset: 0; }
+}
+
+/* Season color transition — smooth body background */
+@keyframes seasonShift {
+  from { opacity: 0.8; }
+  to   { opacity: 1; }
+}
+
+/* Reduced motion overrides */
+@media (prefers-reduced-motion: reduce) {
+  @keyframes bounce  { from, to { transform: none; } }
+  @keyframes pulse   { from, to { box-shadow: none; } }
+  @keyframes fadeUp  { from, to { opacity: 1; transform: none; } }
+  @keyframes drawOn  { from, to { stroke-dashoffset: 0; } }
+}

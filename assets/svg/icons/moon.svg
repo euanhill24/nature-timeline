@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Crescent moon -->
+  <path d="M22 8 C14 8 8 14 8 22 C8 30 14 36 22 36 C26 36 30 34 32 31 C28 31 24 29 21 26 C18 23 16 19 16 15 C16 12 17 9 20 8 C20.7 8 21.3 8 22 8Z"/>
+  <!-- Stars -->
+  <line x1="30" y1="10" x2="30" y2="14"/>
+  <line x1="28" y1="12" x2="32" y2="12"/>
+  <line x1="35" y1="18" x2="35" y2="21"/>
+  <line x1="33.5" y1="19.5" x2="36.5" y2="19.5"/>
+  <circle cx="26" cy="6" r="1" fill="currentColor" stroke="none"/>
+</svg>

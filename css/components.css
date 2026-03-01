@@ -1,0 +1,304 @@
+/* ============================================================
+   components.css — Cards, navigation, footer components
+   ============================================================ */
+
+/* --- Month navigation sidebar (desktop) --- */
+
+#month-nav-list {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: var(--space-sm) 0;
+}
+
+.nav-month-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.nav-month-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: 0.8rem;
+  color: var(--text-light);
+  text-decoration: none;
+  transition: background-color 0.2s ease, color 0.2s ease, transform 0.2s ease;
+  position: relative;
+  cursor: pointer;
+  border: 1px solid transparent;
+}
+
+.nav-month-link:hover {
+  background-color: var(--muted);
+  color: var(--primary);
+  transform: scale(1.1);
+}
+
+.nav-month-link.is-active {
+  background-color: var(--primary);
+  color: var(--bg);
+  border-color: var(--primary);
+  transform: scale(1.15);
+}
+
+/* Tooltip on hover (desktop only) */
+.nav-month-link::after {
+  content: attr(data-month-name);
+  position: absolute;
+  left: calc(100% + 8px);
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: var(--primary);
+  color: var(--bg);
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: 0.75rem;
+  white-space: nowrap;
+  padding: 0.2em 0.6em;
+  border-radius: 2px;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.15s ease;
+}
+
+.nav-month-link:hover::after {
+  opacity: 1;
+}
+
+/* Mobile: hide tooltips */
+@media (max-width: 768px) {
+  .nav-month-link {
+    width: 28px;
+    height: 28px;
+    font-size: 0.7rem;
+    border-radius: 3px;
+  }
+
+  .nav-month-link::after {
+    display: none;
+  }
+}
+
+/* --- Category cards --- */
+
+.category-card {
+  background-color: rgba(255,255,255,0.4);
+  border: 1px solid var(--muted);
+  border-radius: var(--card-radius);
+  padding: var(--space-md);
+  position: relative;
+  overflow: hidden;
+  /* Reveal animation starting state — overridden by GSAP */
+  opacity: 0;
+  transform: translateY(24px);
+}
+
+/* Subtle left accent bar */
+.category-card::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 3px;
+  background-color: var(--accent);
+  opacity: 0.5;
+}
+
+.category-card:hover {
+  border-color: var(--accent);
+  background-color: rgba(255,255,255,0.6);
+  transition: border-color 0.25s ease, background-color 0.25s ease;
+}
+
+/* Ensure cards visible if no JS / reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  .category-card {
+    opacity: 1 !important;
+    transform: none !important;
+  }
+}
+
+/* --- Hero section components --- */
+
+.hero-word {
+  opacity: 0;
+  transform: translateY(20px);
+}
+
+/* Ensure hero visible without JS */
+@media (prefers-reduced-motion: reduce) {
+  .hero-word {
+    opacity: 1 !important;
+    transform: none !important;
+  }
+}
+
+.hero-scroll-prompt {
+  opacity: 0;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hero-scroll-prompt {
+    opacity: 0.6 !important;
+  }
+}
+
+/* SVG vine strokes for hero frame */
+.vine-stroke,
+.vine-leaf {
+  stroke-dasharray: 1000;
+  stroke-dashoffset: 1000;
+  stroke: var(--primary);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .vine-stroke,
+  .vine-leaf {
+    stroke-dashoffset: 0 !important;
+  }
+}
+
+/* --- Botanical illustration SVG paths --- */
+
+/* All paths within a .month-botanical are set up for draw-on animation */
+.month-botanical svg path,
+.month-botanical svg ellipse,
+.month-botanical svg circle,
+.month-botanical svg line,
+.month-botanical svg polyline,
+.month-botanical svg rect {
+  stroke: var(--primary);
+  fill: none;
+  stroke-dasharray: var(--path-length, 2000);
+  stroke-dashoffset: var(--path-length, 2000);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .month-botanical svg path,
+  .month-botanical svg ellipse,
+  .month-botanical svg circle,
+  .month-botanical svg line,
+  .month-botanical svg polyline,
+  .month-botanical svg rect {
+    stroke-dashoffset: 0 !important;
+  }
+}
+
+/* --- Stub month indicator --- */
+
+.stub-notice {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4em;
+  font-family: var(--font-body);
+  font-style: italic;
+  font-size: 0.8rem;
+  color: var(--accent);
+  background-color: var(--muted);
+  border-radius: 2px;
+  padding: 0.2em 0.8em;
+  margin-bottom: var(--space-md);
+  opacity: 0.7;
+}
+
+/* --- Season transition overlay (visual indicator) --- */
+
+.season-label {
+  position: absolute;
+  top: var(--space-lg);
+  right: var(--space-md);
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: 0.75rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--accent);
+  opacity: 0.5;
+}
+
+@media (max-width: 768px) {
+  .season-label {
+    display: none;
+  }
+}
+
+/* --- Focus-visible polish for keyboard navigation --- */
+
+.nature-event-item:focus-visible,
+.wildlife-item:focus-visible,
+.foraging-item:focus-visible,
+.todo-item:focus-visible {
+  outline: 2px solid var(--primary);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+/* Allow keyboard users to expand nature event descriptions */
+.nature-event-item:focus-visible .nature-event-desc {
+  max-height: 200px;
+  opacity: 1;
+  padding-top: var(--space-xs);
+}
+
+/* Veg tags: subtle hover lift */
+.veg-tag {
+  transition: background-color 0.15s ease, transform 0.15s ease;
+  cursor: default;
+}
+
+.veg-tag:hover {
+  background-color: var(--accent);
+  color: var(--bg);
+  transform: translateY(-1px);
+}
+
+/* Bloom tags: italic on hover */
+.bloom-tag {
+  transition: color 0.15s ease;
+}
+
+.bloom-tag:hover {
+  color: var(--primary);
+}
+
+/* Card focus outline */
+.category-card:focus-visible {
+  outline: 2px solid var(--primary);
+  outline-offset: 3px;
+}
+
+/* Hero scroll prompt — hide once user has scrolled */
+.hero-scroll-prompt {
+  transition: opacity 0.4s ease;
+}
+
+/* Wildlife type badge */
+.wildlife-type {
+  display: inline-block;
+}
+
+/* Foraging item name hover */
+.foraging-name {
+  transition: color 0.15s ease;
+}
+
+.foraging-item:hover .foraging-name {
+  color: var(--accent);
+}
+
+/* Todo activity hover */
+.todo-activity {
+  transition: color 0.15s ease;
+}
+
+.todo-item:hover .todo-activity {
+  color: var(--accent);
+}

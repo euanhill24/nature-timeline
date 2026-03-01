@@ -1,0 +1,399 @@
+/* ============================================================
+   typography.css — Font loading, text styles, type scale
+   ============================================================ */
+
+/* --- Display / heading scale --- */
+
+.hero-subtitle {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: clamp(1rem, 2vw, 1.25rem);
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: var(--space-xs);
+}
+
+.hero-title {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 400;
+  font-size: clamp(3rem, 8vw, 7rem);
+  line-height: 1.05;
+  color: var(--primary);
+  display: block;
+}
+
+.hero-title .hero-word {
+  display: block;
+}
+
+.hero-tagline {
+  font-family: var(--font-body);
+  font-style: italic;
+  font-size: clamp(0.95rem, 1.5vw, 1.15rem);
+  color: var(--text-light);
+  margin-top: var(--space-sm);
+  letter-spacing: 0.02em;
+}
+
+.hero-dedication {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: clamp(0.8rem, 1.2vw, 0.95rem);
+  letter-spacing: 0.15em;
+  color: var(--muted);
+  margin-top: var(--space-md);
+  opacity: 0.75;
+}
+
+/* Scroll prompt */
+.scroll-label {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: 0.9rem;
+  letter-spacing: 0.1em;
+  color: var(--text-light);
+}
+
+.scroll-arrow {
+  font-size: 1.2rem;
+  color: var(--accent);
+  animation: bounce 2s ease-in-out infinite;
+}
+
+/* --- Month section typography --- */
+
+.month-name {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 400;
+  font-size: clamp(2.5rem, 6vw, 5rem);
+  line-height: 1.1;
+  color: var(--primary);
+}
+
+.month-tagline {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: clamp(1.1rem, 2vw, 1.4rem);
+  color: var(--accent);
+  letter-spacing: 0.03em;
+}
+
+.month-summary {
+  font-family: var(--font-body);
+  font-size: clamp(0.95rem, 1.2vw, 1.05rem);
+  color: var(--text);
+  line-height: 1.8;
+}
+
+/* --- Category cards --- */
+
+.category-card {
+  background-color: var(--bg);
+  border: 1px solid var(--muted);
+  border-radius: var(--card-radius);
+  padding: var(--space-md);
+  position: relative;
+}
+
+.category-label {
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+  font-family: var(--font-display);
+  font-size: 0.7rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: var(--space-sm);
+}
+
+.category-label svg {
+  width: 18px;
+  height: 18px;
+  stroke: var(--accent);
+  fill: none;
+  flex-shrink: 0;
+}
+
+.category-card h3 {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: clamp(1.1rem, 1.8vw, 1.3rem);
+  color: var(--primary);
+  line-height: 1.3;
+  margin-bottom: var(--space-xs);
+}
+
+.category-card p,
+.category-card .item-note {
+  font-family: var(--font-body);
+  font-size: 0.9rem;
+  color: var(--text);
+  line-height: 1.7;
+}
+
+/* Nature events hover expansion */
+.nature-event-item {
+  border-bottom: 1px solid var(--muted);
+  padding: var(--space-xs) 0;
+  cursor: default;
+}
+
+.nature-event-item:last-child {
+  border-bottom: none;
+}
+
+.nature-event-title {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 1rem;
+  color: var(--primary);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nature-event-title::after {
+  content: '+';
+  font-family: var(--font-body);
+  font-size: 0.8rem;
+  color: var(--accent);
+  transition: transform 0.2s ease, color 0.2s ease;
+}
+
+.nature-event-item:hover .nature-event-title::after,
+.nature-event-item:focus-within .nature-event-title::after {
+  transform: rotate(45deg);
+  color: var(--primary);
+}
+
+.nature-event-desc {
+  font-family: var(--font-body);
+  font-size: 0.875rem;
+  color: var(--text-light);
+  line-height: 1.7;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.35s ease, padding-top 0.2s ease, opacity 0.3s ease;
+  opacity: 0;
+  padding-top: 0;
+}
+
+.nature-event-item:hover .nature-event-desc,
+.nature-event-item:focus-within .nature-event-desc {
+  max-height: 200px;
+  opacity: 1;
+  padding-top: var(--space-xs);
+}
+
+/* Wildlife items */
+.wildlife-item {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2em;
+  padding: var(--space-xs) 0;
+  border-bottom: 1px solid var(--muted);
+}
+
+.wildlife-item:last-child {
+  border-bottom: none;
+}
+
+.wildlife-species {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 1rem;
+  color: var(--primary);
+}
+
+.wildlife-type {
+  font-family: var(--font-body);
+  font-size: 0.75rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+
+.wildlife-note {
+  font-family: var(--font-body);
+  font-size: 0.875rem;
+  color: var(--text);
+  line-height: 1.6;
+  margin-top: 0.25em;
+}
+
+/* Sky card */
+.sky-times {
+  display: flex;
+  gap: var(--space-sm);
+  margin-bottom: var(--space-sm);
+}
+
+.sky-time {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex: 1;
+  background-color: var(--muted);
+  border-radius: var(--card-radius);
+  padding: var(--space-xs) var(--space-sm);
+  opacity: 0.7;
+}
+
+.sky-time-label {
+  font-family: var(--font-body);
+  font-size: 0.7rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--text-light);
+}
+
+.sky-time-value {
+  font-family: var(--font-display);
+  font-size: 1.1rem;
+  color: var(--primary);
+}
+
+.sky-highlights {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4em;
+}
+
+.sky-highlight-item {
+  font-family: var(--font-body);
+  font-size: 0.875rem;
+  color: var(--text);
+  padding-left: 1em;
+  position: relative;
+  line-height: 1.6;
+}
+
+.sky-highlight-item::before {
+  content: '·';
+  position: absolute;
+  left: 0;
+  color: var(--accent);
+  font-size: 1.2em;
+  line-height: 1.3;
+}
+
+/* Veg list */
+.veg-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-xs);
+}
+
+.veg-tag {
+  font-family: var(--font-display);
+  font-size: 0.85rem;
+  color: var(--primary);
+  background-color: var(--muted);
+  border-radius: 2px;
+  padding: 0.2em 0.6em;
+  opacity: 0.8;
+}
+
+/* Foraging items */
+.foraging-item {
+  padding: var(--space-xs) 0;
+  border-bottom: 1px solid var(--muted);
+}
+
+.foraging-item:last-child {
+  border-bottom: none;
+}
+
+.foraging-name {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 1rem;
+  color: var(--primary);
+  margin-bottom: 0.2em;
+}
+
+/* Things to do items */
+.todo-item {
+  padding: var(--space-xs) 0;
+  border-bottom: 1px solid var(--muted);
+}
+
+.todo-item:last-child {
+  border-bottom: none;
+}
+
+.todo-activity {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 1rem;
+  color: var(--primary);
+}
+
+.todo-when {
+  font-family: var(--font-body);
+  font-style: italic;
+  font-size: 0.8rem;
+  color: var(--accent);
+  margin-bottom: 0.2em;
+}
+
+/* Category sub-label (e.g. "In bloom" inside foraging card) */
+.category-sublabel {
+  font-family: var(--font-display);
+  font-size: 0.7rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin: var(--space-sm) 0 var(--space-xs);
+}
+
+/* Plants in bloom (compact tags) */
+.bloom-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4em;
+}
+
+.bloom-tag {
+  font-family: var(--font-body);
+  font-style: italic;
+  font-size: 0.85rem;
+  color: var(--text-light);
+}
+
+.bloom-tag:not(:last-child)::after {
+  content: ' ·';
+  color: var(--accent);
+  font-style: normal;
+}
+
+/* --- Footer typography --- */
+
+.footer-title {
+  font-family: var(--font-display);
+  font-size: 1.1rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--primary);
+  margin-bottom: var(--space-sm);
+}
+
+.footer-sources li {
+  font-family: var(--font-body);
+  font-size: 0.875rem;
+  color: var(--text);
+  line-height: 1.8;
+}
+
+.footer-note {
+  font-family: var(--font-body);
+  font-style: italic;
+  font-size: 0.8rem;
+  color: var(--text-light);
+  margin-top: var(--space-md);
+  max-width: 60ch;
+}
